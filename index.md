@@ -1,3 +1,7 @@
+---
+layout: default
+title: Abelard to Eloisa, Leonora to Tasso, Ovid to Julia, Spring, and other poems ... The fourth edition
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
